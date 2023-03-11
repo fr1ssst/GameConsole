@@ -1,2 +1,2 @@
 # GameConsole
-Console game for fr1ssst
+Console game for fr1ssst!
