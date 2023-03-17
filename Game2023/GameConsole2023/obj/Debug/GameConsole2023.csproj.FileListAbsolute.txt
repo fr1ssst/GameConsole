@@ -1,8 +1,0 @@
-C:\Users\Home\Desktop\Game2023\GameConsole2023\bin\Debug\GameConsole2023.exe.config
-C:\Users\Home\Desktop\Game2023\GameConsole2023\bin\Debug\GameConsole2023.exe
-C:\Users\Home\Desktop\Game2023\GameConsole2023\bin\Debug\GameConsole2023.pdb
-C:\Users\Home\Desktop\Game2023\GameConsole2023\obj\Debug\GameConsole2023.csproj.AssemblyReference.cache
-C:\Users\Home\Desktop\Game2023\GameConsole2023\obj\Debug\GameConsole2023.csproj.SuggestedBindingRedirects.cache
-C:\Users\Home\Desktop\Game2023\GameConsole2023\obj\Debug\GameConsole2023.csproj.CoreCompileInputs.cache
-C:\Users\Home\Desktop\Game2023\GameConsole2023\obj\Debug\GameConsole2023.exe
-C:\Users\Home\Desktop\Game2023\GameConsole2023\obj\Debug\GameConsole2023.pdb
