@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+/.vs
+/Game2023/.vs
+
